@@ -12,6 +12,7 @@ A TypeScript application that tracks profitable traders on the Pump.fun platform
 - Self-cleaning progress messages
 
 ## Future Features
+- Dedicated server instead of current API base configuration
 - Connection to personal wallet
 - Automatic percentage based copy trading of selected wallets within 500 ms of original transaction
 - Manual copy trading via instant transaction notifications of selected wallets
