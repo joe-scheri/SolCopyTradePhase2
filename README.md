@@ -11,6 +11,12 @@ A TypeScript application that tracks profitable traders on the Pump.fun platform
 - Rate-limited API calls to prevent throttling
 - Self-cleaning progress messages
 
+## Future Features
+- Connection to personal wallet
+- Automatic percentage based copy trading of selected wallets within 500 ms of original transaction
+- Manual copy trading via instant transaction notifications of selected wallets
+- UI
+
 ## Prerequisites
 
 - Node.js (v14 or higher)
