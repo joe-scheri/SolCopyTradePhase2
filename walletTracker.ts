@@ -2,7 +2,7 @@ import { Connection, PublicKey, LAMPORTS_PER_SOL } from "@solana/web3.js";
 import axios from "axios";
 
 // Use Helius RPC for better rate limits
-const HELIUS_RPC_URL = "https://mainnet.helius-rpc.com/?api-key=139beb7c-3a31-4d0c-b1e6-7722cd750065";
+const HELIUS_RPC_URL = "https://mainnet.helius-rpc.com/?api-key=(your_key_here)";
 const connection = new Connection(HELIUS_RPC_URL, {
     commitment: "confirmed",
     wsEndpoint: undefined // Disable WebSocket connection
