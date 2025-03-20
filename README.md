@@ -2,7 +2,7 @@
 
 A TypeScript application that tracks profitable traders on the Pump.fun platform on Solana blockchain.
 
-## Features
+## Current Features
 
 - Tracks trader performance across different time periods (24h, 7d, 30d, 1y)
 - Calculates profits in both SOL and USD
