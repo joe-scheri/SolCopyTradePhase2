@@ -4,7 +4,7 @@ A TypeScript application that tracks profitable traders on the Pump.fun platform
 
 ## Current Features
 
-- Tracks trader performance across different time periods (24h, 7d, 30d, 1y)
+- Tracks trader performance across different periods (24h, 7d, 30d, 1y)
 - Calculates profits in both SOL and USD
 - Shows win rates and average trade sizes
 - Displays current wallet balances
@@ -12,9 +12,9 @@ A TypeScript application that tracks profitable traders on the Pump.fun platform
 - Self-cleaning progress messages
 
 ## Future Features
-- Dedicated server instead of current API base configuration
+- Dedicated server instead of current API based configuration
 - Connection to personal wallet
-- Automatic percentage based copy trading of selected wallets within 500 ms of original transaction
+- Automatic percentage-based copy trading of selected wallets within 500 ms of original transaction
 - Manual copy trading via instant transaction notifications of selected wallets
 - UI
 
